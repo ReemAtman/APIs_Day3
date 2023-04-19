@@ -1,0 +1,14 @@
+D:\ITI Matrial\ITI API\Day3\API_DAy3_JWT\DAL_Poject\bin\Debug\net7.0\DAL_Poject.deps.json
+D:\ITI Matrial\ITI API\Day3\API_DAy3_JWT\DAL_Poject\bin\Debug\net7.0\DAL_Poject.dll
+D:\ITI Matrial\ITI API\Day3\API_DAy3_JWT\DAL_Poject\bin\Debug\net7.0\DAL_Poject.pdb
+D:\ITI Matrial\ITI API\Day3\API_DAy3_JWT\DAL_Poject\obj\Debug\net7.0\DAL_Poject.csproj.AssemblyReference.cache
+D:\ITI Matrial\ITI API\Day3\API_DAy3_JWT\DAL_Poject\obj\Debug\net7.0\DAL_Poject.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Matrial\ITI API\Day3\API_DAy3_JWT\DAL_Poject\obj\Debug\net7.0\DAL_Poject.AssemblyInfoInputs.cache
+D:\ITI Matrial\ITI API\Day3\API_DAy3_JWT\DAL_Poject\obj\Debug\net7.0\DAL_Poject.AssemblyInfo.cs
+D:\ITI Matrial\ITI API\Day3\API_DAy3_JWT\DAL_Poject\obj\Debug\net7.0\DAL_Poject.csproj.CoreCompileInputs.cache
+D:\ITI Matrial\ITI API\Day3\API_DAy3_JWT\DAL_Poject\obj\Debug\net7.0\DAL_Poject.dll
+D:\ITI Matrial\ITI API\Day3\API_DAy3_JWT\DAL_Poject\obj\Debug\net7.0\refint\DAL_Poject.dll
+D:\ITI Matrial\ITI API\Day3\API_DAy3_JWT\DAL_Poject\obj\Debug\net7.0\DAL_Poject.pdb
+D:\ITI Matrial\ITI API\Day3\API_DAy3_JWT\DAL_Poject\obj\Debug\net7.0\ref\DAL_Poject.dll
+D:\ITI Matrial\ITI API\Day3\API_DAy3_JWT\DAL_Poject\bin\Debug\net7.0\DAL_Poject.runtimeconfig.json
+D:\ITI Matrial\ITI API\Day3\API_DAy3_JWT\DAL_Poject\obj\Debug\net7.0\DAL_Poject.genruntimeconfig.cache

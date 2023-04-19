@@ -1,0 +1,6 @@
+D:\ITI Matrial\ITI API\Day3\API_DAy3_JWT\BLL_Project\bin\Debug\BLL_Project.dll
+D:\ITI Matrial\ITI API\Day3\API_DAy3_JWT\BLL_Project\bin\Debug\BLL_Project.pdb
+D:\ITI Matrial\ITI API\Day3\API_DAy3_JWT\BLL_Project\obj\Debug\BLL_Project.csproj.AssemblyReference.cache
+D:\ITI Matrial\ITI API\Day3\API_DAy3_JWT\BLL_Project\obj\Debug\BLL_Project.csproj.CoreCompileInputs.cache
+D:\ITI Matrial\ITI API\Day3\API_DAy3_JWT\BLL_Project\obj\Debug\BLL_Project.dll
+D:\ITI Matrial\ITI API\Day3\API_DAy3_JWT\BLL_Project\obj\Debug\BLL_Project.pdb
